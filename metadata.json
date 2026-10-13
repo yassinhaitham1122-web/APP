@@ -1,0 +1,6 @@
+{
+  "name": "Attendance Tracker",
+  "description": "Production-ready bilingual Attendance Tracker (سجل الحضور والانصراف) with check-in, check-out, lateness calculation, penalties, excuses, kiosk mode, reports, and PIN lock.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
